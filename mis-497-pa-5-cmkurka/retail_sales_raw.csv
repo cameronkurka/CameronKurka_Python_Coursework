@@ -1,0 +1,1051 @@
+﻿order_id,sale_date,region,customer_name,product_category,product_name,quantity,unit_price
+1396,8/21/23,West,Sandra Davis,Electronics,Tablet,5,412.75
+1074,2/12/23,Southwest,Carol Johnson,Office,Notebook,2,9.72
+1168,6/29/23,Northeast,Lisa Perez,Clothing,Jacket,2,93.64
+1078,5/3/23,Southeast,Mary Martinez,Electronics,Tablet,4,422.93
+1010,7/14/23,Midwest,David Robinson,Clothing,Hoodie,5,41.82
+1848,6/1/23,West,Nancy Anderson,Sports,Water Bottle,2,19.66
+1763,3/29/23,Northeast,Charles Thomas,Office,Desk Chair,3,286.25
+1865,3/26/23,Midwest,,Sports,Dumbbells,1,
+1506,2/16/23,West,Emily Martinez,Electronics,Laptop,1,960.33
+1898,4/22/23,Southeast,David Miller,Home & Garden,Wall Clock,5,29.46
+1557,9/15/23,Northeast,Robert Thompson,Electronics,Keyboard,3,45.45
+1803,5/28/23,Southwest,,Home & Garden,Throw Pillow,4,25.14
+1507,5/16/23,Southwest,Ashley Jackson,Electronics,Headphones,1,82.3
+1565,5/26/23,West,Sarah Miller,Home & Garden,Desk Lamp,1,32.39
+1608,12/27/23,Northeast,Donna Smith,Sports,Water Bottle,1,20.33
+1324,6/3/23,Southeast,Margaret Jones,Office,Stapler,5,15.75
+1659,5/10/23,Southwest,John Davis,Home & Garden,Throw Pillow,3,25.64
+1021,3/7/23,Southwest,Robert Rodriguez,Electronics,Laptop,5,941.73
+1071,7/19/23,Southwest,Daniel Martin,Sports,Water Bottle,5,18.01
+1255,6/17/23,West,Steven Rodriguez,Sports,Dumbbells,3,56.16
+1759,9/24/23,Midwest,John Miller,Office,Notebook,1,8.69
+1200,7/8/23,West,Donald Gonzalez,Clothing,Hoodie,4,37.9
+1897,3/12/23,West,Barbara Smith,Office,Pen Set,3,11.63
+1191,7/29/23,Midwest,Charles Harris,Clothing,Jacket,5,87.7
+1783,3/13/23,Southeast,Susan Walker,Sports,Water Bottle,5,20.17
+1516,6/27/23,Southwest,Sarah Walker,Office,Pen Set,2,11.02
+1310,4/11/23,Midwest,Charles Martinez,Office,Pen Set,2,12.52
+1342,8/13/23,Midwest,Ashley Wilson,Office,Notebook,1,9.8
+1588,10/26/23,Southeast,Anthony Martinez,Sports,Water Bottle,5,18.67
+1083,1/7/23,Southwest,Robert Perez,Office,Monitor Stand,4,51.6
+1377,6/25/23,Northeast,William Young,Home & Garden,Desk Lamp,1,35.32
+1183,12/2/23,Northeast,Susan Martinez,Electronics,Tablet,2,428.03
+1889,6/3/23,Southwest,Barbara Taylor,Clothing,T-Shirt,1,21.15
+1857,5/19/23,West,Charles Ramirez,Sports,Running Shoes,5,85.52
+1613,12/15/23,Southwest,Nancy Robinson,Office,Monitor Stand,5,52.69
+1824,6/23/23,Northeast,Mary Williams,Office,Monitor Stand,3,54.65
+1812,7/15/23,Southwest,Karen Brown,Home & Garden,Throw Pillow,3,26.39
+1964,5/25/23,Southeast,Carol Lee,Clothing,Jacket,1,84.11
+1653,2/22/23,Midwest,Mary Lopez,Clothing,T-Shirt,3,21.87
+1249,10/2/23,Northeast,Donald Jackson,Electronics,Headphones,1,79.91
+1375,2/17/23,Southwest,Christopher Smith,Home & Garden,Wall Clock,3,32.69
+1630,1/31/23,Southeast,Michael Hernandez,Office,Pen Set,3,10.91
+1106,8/28/23,Midwest,Mark Davis,Office,Pen Set,4,13
+1482,7/27/23,Southwest,Thomas Clark,Electronics,Smartwatch,1,219.89
+1818,1/2/23,Southwest,Robert Anderson,Sports,Water Bottle,4,19.73
+1410,9/9/23,Northeast,Sarah Clark,Electronics,Tablet,2,452.67
+1398,3/27/23,Midwest,Donna Taylor,Clothing,Sneakers,2,81.78
+1210,3/15/23,Midwest,Steven Thomas,Office,Pen Set,4,10.83
+1275,4/9/23,Northeast,Ashley Moore,Sports,Dumbbells,3,58.85
+1245,1/26/23,Midwest,Barbara Miller,Electronics,Headphones,4,79.18
+1065,8/15/23,West,Ashley Lee,Electronics,Smartwatch,5,185.32
+1916,3/28/23,Northeast,Margaret Miller,Electronics,Laptop,3,835.8
+1854,1/9/23,Southwest,Sarah Garcia,Clothing,Jeans,3,
+1261,2/1/23,Southeast,Amanda Walker,Clothing,Sneakers,5,75.02
+1263,4/9/23,Southeast,Thomas Walker,Office,Desk Chair,3,302.77
+1821,6/3/23,Southwest,Matthew Gonzalez,Clothing,Hoodie,1,36.31
+1716,4/7/23,Northeast,Karen Martinez,Home & Garden,Wall Clock,2,31.46
+1111,7/30/23,Southwest,David Perez,Home & Garden,Desk Lamp,3,36.18
+1350,6/28/23,Southwest,Donna Walker,Home & Garden,Wall Clock,1,
+1489,4/13/23,Midwest,Barbara Rodriguez,Home & Garden,Wall Clock,4,27.32
+1195,4/3/23,Southeast,Betty Martin,Sports,Jump Rope,3,12.63
+1492,7/26/23,Southwest,Sandra Ramirez,Sports,Yoga Mat,4,27.77
+1281,12/20/23,Northeast,Steven Martin,Home & Garden,Throw Pillow,3,24.52
+1672,4/2/23,Northeast,John Rodriguez,Electronics,Keyboard,2,51.58
+1226,9/29/23,Midwest,Robert Rodriguez,Home & Garden,Desk Lamp,4,34.6
+1339,9/3/23,Midwest,Christopher Gonzalez,Sports,Jump Rope,2,12.04
+1976,3/28/23,West,Susan Taylor,Clothing,Hoodie,4,36.32
+1067,8/14/23,Northeast,Sarah Moore,Home & Garden,Blender,3,44.85
+1935,3/27/23,West,Steven Perez,Electronics,Tablet,3,435.23
+1256,9/17/23,West,Lisa Perez,Clothing,Sneakers,5,82.35
+1946,4/14/23,Southeast,Sandra Williams,Sports,Jump Rope,3,14.27
+1570,5/15/23,Northeast,William Gonzalez,Office,Notebook,1,9.6
+1749,8/31/23,Northeast,Nancy Walker,Electronics,Tablet,2,422.45
+1179,11/13/23,Southwest,Christopher Hernandez,Home & Garden,Coffee Maker,3,58.85
+1110,8/29/23,Midwest,Emily Garcia,Clothing,Hoodie,4,39.48
+1894,5/29/23,Midwest,Daniel Brown,Home & Garden,Wall Clock,5,
+1600,5/10/23,Midwest,Michelle Walker,Sports,Dumbbells,5,53.56
+1125,12/2/23,Southeast,Barbara Clark,Office,Monitor Stand,1,
+1138,3/9/23,Northeast,John White,Electronics,Headphones,3,84.61
+1152,5/22/23,Southeast,Joshua Smith,Home & Garden,Throw Pillow,2,26.43
+1250,7/7/23,Northeast,Betty Sanchez,Sports,Dumbbells,4,59.2
+1997,9/25/23,Southwest,Lisa Thomas,Clothing,Jeans,3,51.83
+1564,4/12/23,West,Thomas Miller,Electronics,Headphones,4,82.74
+1081,4/12/23,Northeast,Matthew Sanchez,Home & Garden,Blender,5,46.59
+1258,5/16/23,West,Mary Walker,Office,Desk Chair,5,317.79
+1893,3/25/23,Northeast,,Electronics,Tablet,3,433.76
+1913,11/4/23,Midwest,Charles Robinson,Home & Garden,Wall Clock,4,27.69
+1546,10/6/23,West,David Clark,Office,Notebook,4,9.5
+1725,6/5/23,Midwest,Mark Sanchez,Office,Notebook,4,8.43
+1691,3/20/23,Northeast,Christopher Anderson,Home & Garden,Blender,4,45.57
+1484,5/31/23,Northeast,David Lopez,Home & Garden,Blender,4,43.19
+1076,2/11/23,Southwest,Anthony Taylor,Home & Garden,Wall Clock,1,
+1079,7/8/23,Southeast,Ashley Taylor,Electronics,Keyboard,5,54.47
+1458,3/3/23,Southwest,Donna Martinez,Sports,Yoga Mat,2,30
+1286,2/16/23,West,Carol Young,Sports,Yoga Mat,4,31.07
+1082,10/17/23,Northeast,Lisa Davis,Clothing,T-Shirt,3,20.78
+1213,2/4/23,Midwest,Mary Thompson,Sports,Running Shoes,2,80.8
+1856,12/27/23,Northeast,Betty Robinson,Sports,Dumbbells,1,58.18
+1041,5/16/23,Northeast,,Office,Desk Chair,1,325.89
+1119,5/22/23,Southwest,William Jones,Clothing,Hoodie,3,40.06
+1204,6/28/23,Northeast,Joseph Lewis,Sports,Yoga Mat,4,32.67
+1269,8/30/23,Northeast,Anthony Perez,Clothing,Jeans,2,
+1473,6/26/23,Southeast,Donald Thompson,Office,Monitor Stand,3,46.77
+1978,7/4/23,Southwest,Emily Moore,Home & Garden,Coffee Maker,3,65.73
+1337,2/24/23,Southeast,Richard Robinson,Clothing,Sneakers,3,76.4
+1632,6/29/23,West,Anthony Davis,Office,Desk Chair,2,290.64
+1017,8/21/23,Northeast,,Home & Garden,Desk Lamp,3,32.27
+1601,8/17/23,Southeast,Linda Anderson,Home & Garden,Wall Clock,1,
+1408,3/19/23,Northeast,Richard Thomas,Home & Garden,Blender,4,49.24
+1527,1/24/23,West,Michael Clark,Sports,Dumbbells,1,57.37
+1695,5/5/23,Northeast,Richard Thomas,Sports,Water Bottle,3,
+1260,8/3/23,Southeast,Mark Lee,Office,Notebook,4,8.43
+1214,1/23/23,Midwest,Nancy Rodriguez,Electronics,Keyboard,5,52.34
+1679,2/23/23,Southeast,Ashley Ramirez,Electronics,Keyboard,2,48.57
+1495,3/27/23,Northeast,Carol Martin,Clothing,T-Shirt,1,19.52
+1215,11/20/23,Southeast,Ashley Walker,Home & Garden,Throw Pillow,2,26.64
+1022,4/19/23,West,Joshua Ramirez,Clothing,Jacket,2,90.49
+1509,3/12/23,Southeast,John Smith,Electronics,Laptop,3,963.21
+1616,10/11/23,Southeast,Nancy Jones,Home & Garden,Coffee Maker,4,58.78
+1544,11/17/23,West,Christopher Brown,Clothing,T-Shirt,3,18.61
+1569,10/10/23,Northeast,Lisa Young,Sports,Water Bottle,2,19.77
+1904,8/29/23,Northeast,Steven Brown,Electronics,Tablet,3,414.69
+1820,8/24/23,Midwest,Nancy Garcia,Electronics,Laptop,2,875.75
+1452,3/1/23,Midwest,Jennifer Walker,Clothing,Jeans,4,51.37
+1180,10/29/23,Southwest,,Electronics,Smartwatch,5,213.77
+1602,3/24/23,Southwest,Nancy Brown,Clothing,Hoodie,1,39.19
+1490,9/7/23,Midwest,Susan Garcia,Office,Monitor Stand,2,46.42
+1279,6/4/23,West,Karen Perez,Home & Garden,Wall Clock,5,28.4
+1098,3/19/23,Southeast,Robert Brown,Electronics,Laptop,5,882.12
+1241,11/25/23,Midwest,Emily Jackson,Sports,Jump Rope,4,13.35
+1135,12/4/23,Southwest,Charles Johnson,Office,Desk Chair,3,304.48
+1637,7/5/23,West,Karen Lewis,Home & Garden,Blender,5,46.29
+1664,9/7/23,Southeast,Michael Rodriguez,Home & Garden,Throw Pillow,3,26
+1137,12/14/23,Southeast,Amanda Taylor,Home & Garden,Throw Pillow,1,25.67
+1766,12/10/23,West,Nancy Gonzalez,Sports,Jump Rope,1,12.61
+1187,11/11/23,West,Robert Garcia,Electronics,Headphones,5,85.3
+1730,7/13/23,West,Steven Hernandez,Electronics,Keyboard,4,52.06
+1784,12/10/23,Southeast,Barbara Jackson,Sports,Running Shoes,2,90.77
+1611,6/24/23,Northeast,Steven Jackson,Office,Notebook,5,9.1
+1963,6/13/23,Southwest,William Clark,Clothing,Jeans,4,50.15
+1835,3/31/23,West,Anthony Thomas,Clothing,Jacket,1,90.41
+1719,7/18/23,Southwest,Betty Lopez,Office,Pen Set,4,11.92
+1045,10/7/23,Northeast,,Sports,Jump Rope,3,11.72
+1073,8/28/23,Southeast,Margaret Hernandez,Electronics,Smartwatch,5,193.44
+1982,8/23/23,Southwest,Daniel Young,Electronics,Smartwatch,1,181.62
+1393,8/5/23,Southwest,Steven Clark,Electronics,Smartwatch,1,200.25
+1415,8/27/23,Midwest,David Lewis,Office,Notebook,4,8.37
+1834,12/21/23,Southeast,Anthony Walker,Electronics,Keyboard,2,53.86
+1638,5/1/23,Midwest,Mary Rodriguez,Sports,Water Bottle,1,18.66
+1322,5/19/23,Northeast,Andrew Walker,Electronics,Tablet,1,424.02
+1702,7/12/23,West,Barbara Johnson,Office,Monitor Stand,5,51.22
+1559,11/21/23,Southeast,Margaret Jackson,Clothing,Hoodie,3,37.75
+1037,5/3/23,Midwest,Jessica Lee,Office,Desk Chair,4,326.07
+1549,12/16/23,Midwest,Sarah Williams,Clothing,Hoodie,4,
+1760,4/13/23,Southeast,Jessica Lee,Office,Desk Chair,3,308.32
+1008,7/14/23,Midwest,Joseph Miller,Clothing,Jacket,4,98.72
+1351,12/30/23,Northeast,Lisa Williams,Sports,Water Bottle,1,19.27
+1887,4/13/23,Southeast,Ashley Rodriguez,Home & Garden,Wall Clock,4,28.04
+1335,9/10/23,Southeast,Lisa Moore,Sports,Dumbbells,1,51.02
+1093,3/3/23,West,Richard Lee,Home & Garden,Desk Lamp,2,33.1
+1662,7/10/23,Northeast,Donald Martinez,Electronics,Keyboard,2,52.82
+1305,1/8/23,Southeast,Nancy Martin,Office,Stapler,2,14.93
+1103,5/28/23,Midwest,John Anderson,Sports,Jump Rope,4,12.91
+1688,1/20/23,West,Michael Martin,Sports,Jump Rope,4,13.82
+1006,7/13/23,Northeast,Paul Davis,Home & Garden,Coffee Maker,5,62.75
+1182,6/29/23,Southeast,Richard Thompson,Office,Notebook,2,9.05
+1247,6/7/23,Southwest,Ashley Young,Clothing,Sneakers,1,82.43
+1523,12/3/23,Midwest,Amanda Walker,Sports,Running Shoes,4,86.01
+1627,10/22/23,Southeast,Susan Rodriguez,Home & Garden,Wall Clock,1,28.67
+1635,11/20/23,West,Nancy Clark,Sports,Dumbbells,5,59.04
+1192,5/26/23,Midwest,Michael Harris,Electronics,Headphones,5,73.05
+1059,8/15/23,Southwest,Christopher Robinson,Sports,Jump Rope,2,13.27
+1058,6/5/23,Midwest,Margaret Smith,Clothing,Hoodie,2,40.54
+1330,2/24/23,Northeast,Christopher White,Sports,Dumbbells,1,57.63
+1823,10/4/23,Midwest,Matthew Jones,Electronics,Keyboard,4,47.38
+1782,12/31/23,Southwest,Margaret Lee,Clothing,Sneakers,4,78.02
+1478,1/4/23,West,Margaret Miller,Home & Garden,Blender,3,47.91
+1703,12/23/23,West,Charles Gonzalez,Electronics,Headphones,3,74.72
+1369,3/26/23,West,Amanda Ramirez,Office,Desk Chair,2,321.65
+1278,6/15/23,Southeast,William Walker,Sports,Yoga Mat,1,28.1
+1431,7/1/23,Southeast,Joseph Harris,Office,Notebook,2,9.46
+1189,2/22/23,Midwest,Patricia Lewis,Office,Monitor Stand,1,50
+1810,2/26/23,Southeast,Andrew Lopez,Electronics,Keyboard,3,46.29
+1077,11/29/23,Northeast,Daniel Anderson,Office,Notebook,1,9.89
+1859,7/7/23,Midwest,Ashley Williams,Electronics,Laptop,2,878.92
+1538,11/28/23,West,Michelle Anderson,Home & Garden,Wall Clock,4,27.61
+1145,9/10/23,Northeast,John Martin,Electronics,Tablet,1,409.07
+1149,3/4/23,Southwest,Karen Gonzalez,Office,Desk Chair,1,273.62
+1319,12/23/23,Southeast,Ashley Thomas,Electronics,Headphones,3,87.34
+1438,4/25/23,West,Susan Thompson,Sports,Water Bottle,2,20.59
+1154,1/27/23,Southeast,Susan Taylor,Clothing,Hoodie,4,38.58
+1272,4/1/23,Northeast,Susan Clark,Office,Notebook,4,9.73
+1231,5/2/23,Southwest,Richard Rodriguez,Home & Garden,Blender,1,42.51
+1178,10/21/23,Southwest,Christopher Ramirez,Electronics,Smartwatch,4,216.84
+1299,10/12/23,Southwest,Susan Ramirez,Electronics,Keyboard,1,54.47
+1301,4/26/23,Midwest,Donald Thomas,Sports,Dumbbells,2,57.79
+1296,1/29/23,Southeast,Joseph Wilson,Clothing,T-Shirt,5,19.6
+1845,4/21/23,West,Sandra Martinez,Office,Monitor Stand,4,45.53
+1680,6/30/23,Midwest,David Lewis,Office,Monitor Stand,5,50.04
+1456,10/11/23,Northeast,Carol Anderson,Home & Garden,Blender,4,44.22
+1734,4/22/23,West,Emily Thomas,Office,Notebook,4,9.18
+1444,2/21/23,Southwest,Daniel Harris,Sports,Water Bottle,5,21.52
+1051,11/25/23,West,Karen Thompson,Home & Garden,Desk Lamp,4,37.54
+1842,10/31/23,West,Sarah Lewis,Office,Notebook,3,8.22
+1985,9/13/23,Northeast,Robert Thomas,Office,Stapler,3,14.74
+1595,2/12/23,Midwest,Donald Anderson,Electronics,Smartwatch,5,185.35
+1402,9/18/23,Northeast,Linda Anderson,Electronics,Keyboard,1,51.73
+1987,8/21/23,Midwest,Ashley Walker,Home & Garden,Throw Pillow,5,22.64
+1666,10/14/23,Midwest,Emily Lewis,Clothing,Jacket,5,97.17
+1314,12/29/23,Southeast,Joseph Jones,Sports,Dumbbells,1,58.76
+1223,2/8/23,Southwest,Karen Brown,Home & Garden,Blender,3,49.47
+1483,12/18/23,West,Nancy Anderson,Office,Pen Set,4,12.75
+1636,6/10/23,Midwest,Nancy Anderson,Sports,Yoga Mat,3,27.47
+1277,9/21/23,Midwest,,Clothing,Jeans,1,51.1
+1905,3/5/23,West,James Miller,Electronics,Laptop,2,864.29
+1656,10/6/23,Southwest,Margaret Jones,Electronics,Tablet,2,410.03
+1748,7/22/23,West,Nancy Perez,Home & Garden,Coffee Maker,5,55.36
+1075,4/19/23,Southwest,Matthew Lee,Sports,Dumbbells,3,50.04
+1953,12/25/23,Northeast,Paul White,Home & Garden,Blender,3,40.99
+1623,3/3/23,West,Susan Robinson,Home & Garden,Wall Clock,4,32.15
+1295,8/17/23,West,Michael Williams,Electronics,Tablet,1,423.54
+1867,5/30/23,Southeast,Mark Johnson,Clothing,Sneakers,1,72.69
+1224,1/18/23,Southeast,Barbara Lewis,Office,Stapler,1,16.35
+1298,7/31/23,Midwest,,Clothing,Jacket,3,96.76
+1531,8/20/23,Southeast,Nancy Jackson,Office,Stapler,2,14.31
+1139,9/29/23,West,William White,Home & Garden,Wall Clock,3,28.04
+1711,8/2/23,Southeast,Amanda Anderson,Electronics,Smartwatch,5,
+1235,8/10/23,West,Susan Rodriguez,Clothing,Hoodie,1,41.11
+1479,9/4/23,Northeast,Lisa Miller,Office,Pen Set,3,12.25
+1585,3/10/23,West,Carol Hernandez,Clothing,T-Shirt,1,18.5
+1378,8/22/23,Northeast,David Lewis,Electronics,Smartwatch,4,180.64
+1723,9/24/23,Northeast,Andrew Williams,Home & Garden,Wall Clock,4,30.66
+1132,12/13/23,West,Ashley Jackson,Sports,Running Shoes,2,87.83
+1112,5/10/23,Midwest,Jennifer Lee,Sports,Jump Rope,1,11.79
+1902,6/7/23,Southeast,Barbara Anderson,Electronics,Tablet,2,416.58
+1741,9/27/23,Southwest,Karen Perez,Sports,Dumbbells,5,50.83
+1388,12/20/23,Northeast,Joshua Jackson,Electronics,Tablet,3,454.8
+1447,8/9/23,Southeast,Donald Johnson,Home & Garden,Blender,5,49.36
+1841,3/22/23,Northeast,Paul Lopez,Electronics,Laptop,4,943.26
+1205,2/11/23,Midwest,Sarah Harris,Electronics,Smartwatch,2,200.07
+1036,12/3/23,West,Jennifer Clark,Office,Pen Set,5,10.89
+1352,9/22/23,Southeast,David Thomas,Home & Garden,Coffee Maker,5,62.12
+1776,12/17/23,West,Robert Miller,Clothing,Jacket,4,98.19
+1407,11/15/23,Southeast,Charles Martin,Sports,Yoga Mat,4,29.2
+1159,11/2/23,West,Christopher Harris,Office,Pen Set,3,12.11
+1341,10/31/23,West,,Sports,Running Shoes,2,78.43
+1914,2/5/23,Southwest,Sandra Gonzalez,Clothing,Hoodie,3,39.25
+1980,4/7/23,Southeast,Mark Brown,Sports,Dumbbells,1,55.6
+1806,9/24/23,Midwest,Carol Gonzalez,Sports,Dumbbells,2,57.57
+1405,4/25/23,West,Patricia Lopez,Office,Desk Chair,1,277.15
+1720,1/8/23,Midwest,John Clark,Clothing,Jeans,4,46.92
+1816,9/12/23,Southeast,Mark Johnson,Electronics,Keyboard,1,52.26
+1316,9/29/23,Midwest,James Johnson,Electronics,Keyboard,5,50.51
+1998,9/19/23,Southwest,John Miller,Office,Notebook,4,9.08
+1937,10/24/23,Northeast,Joseph Garcia,Home & Garden,Blender,5,44.11
+1864,8/23/23,Northeast,Robert Gonzalez,Home & Garden,Wall Clock,1,30.72
+1035,3/3/23,West,Sarah Sanchez,Clothing,T-Shirt,2,20.37
+1941,4/20/23,Southwest,Andrew Young,Electronics,Keyboard,3,53.62
+1560,3/5/23,Northeast,Michelle Martinez,Home & Garden,Coffee Maker,1,60.63
+1849,2/14/23,Southwest,Michelle Anderson,Office,Stapler,5,15.22
+1366,10/5/23,Northeast,Karen White,Office,Notebook,4,9.12
+1809,11/3/23,Northeast,,Electronics,Laptop,1,921.48
+1270,12/1/23,Southwest,David Clark,Electronics,Keyboard,4,54.77
+1014,2/16/23,Northeast,William Young,Sports,Running Shoes,1,80.22
+1581,9/14/23,Southeast,Joshua Smith,Home & Garden,Wall Clock,4,31.75
+1995,11/28/23,Southeast,Ashley Anderson,Electronics,Keyboard,4,48.41
+1977,3/14/23,Midwest,Christopher Ramirez,Home & Garden,Wall Clock,1,27.78
+1238,10/31/23,West,Jennifer Hernandez,Clothing,Jacket,2,92.05
+1197,12/5/23,Midwest,Donna Williams,Office,Pen Set,5,12.79
+1356,8/23/23,Northeast,Christopher Gonzalez,Electronics,Keyboard,3,46.86
+1787,7/16/23,Midwest,Sandra Lewis,Office,Stapler,2,14.85
+1406,6/17/23,Northeast,Charles Martin,Sports,Yoga Mat,5,32.25
+1615,12/25/23,Midwest,Donna Smith,Home & Garden,Wall Clock,2,32.72
+1721,8/13/23,West,Robert Lopez,Clothing,Jeans,4,52.57
+1206,3/12/23,Northeast,Nancy Martinez,Electronics,Headphones,3,86.88
+1196,2/9/23,Midwest,William Martinez,Sports,Dumbbells,1,51.98
+1753,6/7/23,Midwest,Susan Davis,Clothing,Hoodie,1,40.84
+1380,7/22/23,Midwest,David Brown,Home & Garden,Coffee Maker,2,58.45
+1284,10/16/23,Northeast,Betty Jones,Office,Monitor Stand,1,50.27
+1053,8/12/23,West,Daniel Lee,Electronics,Laptop,5,917.37
+1288,1/2/23,Southeast,Margaret Taylor,Sports,Running Shoes,5,88.79
+1910,7/1/23,Southwest,Michael Lopez,Office,Stapler,4,14.81
+1882,3/17/23,Southwest,Betty Sanchez,Office,Pen Set,3,13.05
+1687,6/16/23,Southwest,Jessica Jones,Electronics,Keyboard,2,48.99
+1227,4/6/23,Southwest,Linda Johnson,Home & Garden,Desk Lamp,5,33.24
+1763,3/29/23,Northeast,Charles Thomas,Office,Desk Chair,3,286.25
+1674,11/7/23,Northeast,Betty Anderson,Office,Pen Set,1,11.4
+1952,5/21/23,Southwest,Susan Wilson,Sports,Dumbbells,4,51.08
+1708,6/27/23,Midwest,David Johnson,Home & Garden,Wall Clock,3,29.35
+1624,10/25/23,Northeast,Jessica Harris,Home & Garden,Coffee Maker,3,54.13
+1018,11/24/23,West,Michael Martin,Office,Stapler,5,15.01
+1032,8/5/23,West,Ashley Jackson,Sports,Running Shoes,4,92.24
+1044,3/24/23,Southwest,William Taylor,Electronics,Laptop,5,870.03
+1446,2/8/23,West,Matthew Hernandez,Electronics,Laptop,1,871.52
+1229,3/30/23,Southwest,Robert Lewis,Sports,Dumbbells,1,50.84
+1840,6/21/23,West,Sandra Taylor,Electronics,Headphones,4,76.55
+1225,11/6/23,Southeast,Andrew Williams,Clothing,Jacket,4,87.51
+1836,11/18/23,Midwest,Amanda Garcia,Office,Stapler,3,15.64
+1705,7/14/23,West,Matthew Anderson,Electronics,Laptop,1,
+1267,4/14/23,West,Donald Wilson,Home & Garden,Wall Clock,3,30.93
+1171,3/22/23,West,Patricia Martinez,Home & Garden,Blender,1,45.86
+1577,7/18/23,Southwest,Donna White,Clothing,T-Shirt,4,20.66
+1120,10/28/23,West,Charles Martin,Office,Desk Chair,4,319.22
+1123,12/6/23,Southeast,Matthew Harris,Home & Garden,Wall Clock,4,31.22
+1562,3/24/23,Southeast,Steven Martinez,Clothing,Sneakers,2,81.07
+1056,9/17/23,Midwest,Linda Martin,Office,Desk Chair,4,309.79
+1192,5/26/23,Midwest,Michael Harris,Electronics,Headphones,5,73.05
+1846,11/20/23,Midwest,Ashley Gonzalez,Clothing,Sneakers,3,73.09
+1572,12/1/23,Southeast,Paul Walker,Office,Desk Chair,3,302.6
+1304,2/7/23,Southeast,,Electronics,Headphones,5,78.02
+1830,1/24/23,West,Christopher Wilson,Electronics,Keyboard,2,50.45
+1399,8/8/23,Midwest,Mary Perez,Home & Garden,Coffee Maker,5,63.25
+1563,10/9/23,Southwest,Susan Brown,Office,Desk Chair,5,281.65
+1015,7/17/23,Southwest,Sandra Jones,Clothing,Jeans,5,52.91
+1886,2/15/23,Northeast,Robert Harris,Sports,Jump Rope,4,14.25
+1033,6/10/23,Northeast,,Clothing,Jeans,1,47.96
+1160,12/2/23,West,Michael Davis,Sports,Jump Rope,2,13.26
+1477,5/10/23,Southeast,Daniel Robinson,Home & Garden,Wall Clock,4,32.36
+1085,8/27/23,Southwest,Paul Walker,Home & Garden,Blender,5,47.76
+1672,4/2/23,Northeast,John Rodriguez,Electronics,Keyboard,2,51.58
+1792,10/1/23,Northeast,Patricia Perez,Office,Pen Set,4,11.54
+1039,3/9/23,Midwest,Steven Taylor,Electronics,Laptop,1,
+1217,5/10/23,Northeast,Paul Walker,Home & Garden,Blender,2,44.07
+1116,2/17/23,Southeast,James Clark,Clothing,Jeans,1,48.1
+1013,10/27/23,Southwest,Sarah Taylor,Sports,Dumbbells,5,52.4
+1881,9/9/23,Midwest,Margaret Gonzalez,Sports,Yoga Mat,5,32.84
+1641,8/15/23,Southeast,Sarah Jackson,Electronics,Smartwatch,2,192.37
+1525,3/26/23,Southwest,Michael Williams,Office,Pen Set,2,11.69
+1947,11/26/23,Northeast,Karen Lopez,Clothing,T-Shirt,4,19.02
+1201,3/24/23,Southeast,Steven Clark,Sports,Running Shoes,5,89.72
+1475,12/16/23,Northeast,Anthony Johnson,Clothing,Jeans,4,
+1162,3/20/23,Southwest,Thomas White,Electronics,Headphones,1,78.82
+1990,5/3/23,Southwest,Thomas Lopez,Office,Monitor Stand,1,45.92
+1574,12/6/23,Southeast,Steven Smith,Office,Notebook,5,8.8
+1216,4/13/23,Northeast,Richard Williams,Electronics,Smartwatch,3,181.47
+1738,11/9/23,West,David Jackson,Electronics,Smartwatch,5,
+1878,1/13/23,Southwest,Linda Martin,Electronics,Tablet,5,466.01
+1115,3/4/23,Northeast,Mark Young,Office,Stapler,5,16.27
+1023,9/22/23,Southwest,Betty Lewis,Home & Garden,Wall Clock,1,32.96
+1568,7/4/23,Southeast,Sandra Moore,Clothing,Jeans,3,52.11
+1522,7/6/23,Northeast,Ashley Perez,Home & Garden,Blender,2,45.55
+1762,4/16/23,West,Amanda Miller,Home & Garden,Coffee Maker,3,54.17
+1979,8/12/23,Southeast,Thomas Lee,Home & Garden,Blender,3,47.96
+1800,11/23/23,Southeast,Sarah Lewis,Sports,Water Bottle,2,
+1508,12/13/23,Midwest,Charles White,Electronics,Tablet,4,483.66
+1367,6/2/23,Northeast,Michael Thomas,Office,Stapler,4,16.46
+1696,2/27/23,Southwest,Andrew Garcia,Sports,Running Shoes,4,88.13
+1876,11/28/23,Midwest,Paul Perez,Home & Garden,Throw Pillow,4,22.51
+1514,8/14/23,Northeast,Linda Clark,Clothing,Sneakers,1,81.3
+1027,8/5/23,Southwest,Sandra Thompson,Clothing,T-Shirt,4,18.38
+1727,7/21/23,Southwest,Carol Rodriguez,Office,Notebook,3,8.41
+1648,4/7/23,Southwest,Michelle White,Office,Stapler,5,15.88
+1609,6/27/23,Midwest,Michelle Thompson,Office,Desk Chair,2,313.56
+1825,12/14/23,West,Donna Robinson,Electronics,Smartwatch,2,184.72
+1471,12/27/23,Southeast,Patricia White,Electronics,Tablet,3,407.97
+1830,1/24/23,West,Christopher Wilson,Electronics,Keyboard,2,50.45
+1861,4/26/23,Midwest,Carol Wilson,Electronics,Smartwatch,3,209.48
+1771,10/12/23,Northeast,Michael Lee,Office,Notebook,3,8.82
+1938,8/7/23,Southeast,Donna Walker,Home & Garden,Desk Lamp,3,31.96
+1550,9/22/23,Midwest,Charles Johnson,Electronics,Smartwatch,5,190.25
+1931,12/19/23,Northeast,Carol Garcia,Clothing,Jeans,3,51.47
+1365,10/17/23,Southwest,David Robinson,Home & Garden,Throw Pillow,5,25.18
+1474,10/20/23,Southeast,Patricia Hernandez,Electronics,Headphones,2,72.43
+1012,4/19/23,Southwest,Andrew Lee,Home & Garden,Coffee Maker,4,56.52
+1644,6/27/23,Southwest,Paul Martin,Office,Monitor Stand,5,50.22
+1831,3/28/23,Midwest,Barbara Clark,Home & Garden,Coffee Maker,5,55.44
+1141,10/13/23,Midwest,Joseph Sanchez,Electronics,Tablet,1,472.86
+1268,5/5/23,Northeast,Amanda Thomas,Office,Desk Chair,5,278.23
+1217,5/10/23,Northeast,Paul Walker,Home & Garden,Blender,2,44.07
+1959,7/31/23,Midwest,Emily Walker,Electronics,Headphones,4,85.85
+1717,11/7/23,West,Amanda Moore,Clothing,T-Shirt,5,21.04
+1374,7/26/23,West,Robert Garcia,Home & Garden,Wall Clock,3,29.24
+1376,9/11/23,Midwest,Sandra Wilson,Electronics,Keyboard,3,48.97
+1619,2/10/23,Southwest,Michael Davis,Office,Desk Chair,5,279.35
+1768,7/6/23,Southwest,Barbara Taylor,Sports,Dumbbells,2,59.91
+1709,2/1/23,Midwest,Steven Moore,Home & Garden,Throw Pillow,4,27.47
+1090,1/9/23,Northeast,Emily Lewis,Office,Stapler,3,15.56
+1843,2/26/23,Midwest,Christopher Anderson,Sports,Dumbbells,2,57.71
+1838,5/22/23,Northeast,Ashley Wilson,Home & Garden,Blender,2,45.06
+1669,4/5/23,Northeast,Steven Harris,Office,Desk Chair,5,297.23
+1442,5/8/23,Northeast,Thomas Wilson,Electronics,Headphones,3,79.14
+1290,7/11/23,Southwest,William Clark,Home & Garden,Wall Clock,4,28.07
+1700,8/19/23,Southwest,Linda Martin,Electronics,Headphones,1,83.09
+1338,6/18/23,Southwest,Amanda Harris,Electronics,Smartwatch,3,193.28
+1100,10/29/23,Southwest,Mark Martin,Clothing,Hoodie,3,39.03
+1283,5/7/23,West,Donald Wilson,Home & Garden,Wall Clock,1,31.2
+1631,7/4/23,Midwest,Nancy Taylor,Sports,Yoga Mat,5,29.69
+1401,7/8/23,Southeast,Andrew Hernandez,Home & Garden,Coffee Maker,3,59.99
+1798,12/25/23,Southeast,Susan Taylor,Clothing,Sneakers,4,73.04
+1920,2/20/23,Northeast,William Johnson,Sports,Dumbbells,1,56.4
+1143,1/13/23,West,Joseph Walker,Sports,Running Shoes,5,78.33
+1057,4/9/23,Southwest,Michelle Rodriguez,Home & Garden,Wall Clock,4,31.17
+1510,7/10/23,Midwest,Karen Garcia,Home & Garden,Wall Clock,2,32.72
+1327,11/21/23,Midwest,Christopher Johnson,Office,Pen Set,4,11.74
+1754,8/20/23,Midwest,Sarah White,Home & Garden,Wall Clock,2,27.51
+1004,6/24/23,Midwest,David Ramirez,Home & Garden,Coffee Maker,2,63.1
+1480,4/7/23,Southeast,Thomas Martin,Home & Garden,Desk Lamp,5,37.52
+1690,6/6/23,West,Matthew Brown,Clothing,Hoodie,1,43.42
+1362,7/3/23,Northeast,Mark Brown,Home & Garden,Throw Pillow,4,23.43
+1655,8/26/23,Northeast,Emily White,Clothing,Jacket,3,88.55
+1925,12/28/23,Southeast,Susan Martin,Sports,Water Bottle,4,18.13
+1439,4/1/23,Northeast,Charles Rodriguez,Sports,Running Shoes,5,88.97
+1019,11/3/23,Midwest,David Smith,Clothing,Jeans,4,48.73
+1578,12/27/23,West,Christopher Miller,Electronics,Laptop,3,986.5
+1919,3/4/23,Midwest,Ashley Miller,Sports,Jump Rope,4,
+1120,10/28/23,West,Charles Martin,Office,Desk Chair,4,319.22
+1421,2/3/23,Southeast,Robert Johnson,Electronics,Keyboard,4,50.85
+1368,3/2/23,Southeast,Jennifer Lewis,Home & Garden,Desk Lamp,2,37.52
+1922,8/27/23,Southeast,Donna Young,Office,Notebook,3,9.46
+1709,2/1/23,Midwest,Steven Moore,Home & Garden,Throw Pillow,4,27.47
+1583,8/1/23,Midwest,Linda Anderson,Home & Garden,Blender,1,46.95
+1014,2/16/23,Northeast,William Young,Sports,Running Shoes,1,80.22
+1437,6/15/23,Southeast,Nancy Martin,Home & Garden,Wall Clock,2,30.51
+1435,6/24/23,Southeast,Richard Rodriguez,Electronics,Headphones,3,86.68
+1176,3/8/23,Southwest,Sandra Lopez,Electronics,Laptop,5,899.52
+1736,4/5/23,Southeast,Jessica Brown,Office,Pen Set,1,12.76
+1503,4/12/23,West,Michael Young,Electronics,Headphones,2,73.81
+1389,6/1/23,Northeast,Richard Sanchez,Clothing,Hoodie,2,40.85
+1900,6/9/23,Midwest,Donald Thompson,Electronics,Tablet,2,488.1
+1693,10/8/23,Southwest,Donald Brown,Clothing,Jeans,3,48.35
+1639,8/31/23,West,Michael Jones,Clothing,Jeans,1,48.96
+1670,4/8/23,West,Robert Harris,Home & Garden,Blender,4,42.64
+1443,8/13/23,Southwest,Patricia Harris,Home & Garden,Coffee Maker,2,62.63
+1099,11/7/23,West,Linda Clark,Home & Garden,Coffee Maker,5,65.92
+1190,9/26/23,West,Mark Lewis,Office,Stapler,5,13.61
+1237,11/22/23,West,Thomas Gonzalez,Office,Desk Chair,3,320.75
+1190,9/26/23,West,Mark Lewis,Office,Stapler,5,13.61
+1942,9/25/23,Southeast,Sandra Brown,Office,Pen Set,3,12.84
+1654,3/19/23,Northeast,Joseph Garcia,Clothing,Sneakers,4,78.4
+1416,6/7/23,Southwest,Jessica Lewis,Electronics,Keyboard,3,48.57
+1394,6/8/23,Northeast,Karen Garcia,Office,Pen Set,5,
+1909,9/16/23,Southwest,Michael Wilson,Office,Notebook,3,9.84
+1649,4/23/23,Midwest,Matthew Harris,Sports,Water Bottle,1,18.99
+1199,11/9/23,Midwest,Sarah Lewis,Sports,Yoga Mat,4,29.46
+1184,12/15/23,West,Carol Lewis,Sports,Water Bottle,5,21.01
+1512,2/23/23,Southwest,Patricia Hernandez,Clothing,T-Shirt,5,18.52
+1912,10/13/23,Northeast,,Office,Stapler,1,14.98
+1193,6/8/23,Southwest,Barbara Thompson,Clothing,Jacket,2,82.46
+1540,11/14/23,Southwest,Thomas Gonzalez,Home & Garden,Blender,2,40.98
+1181,6/20/23,Southeast,Nancy Anderson,Electronics,Smartwatch,1,214.81
+1747,6/3/23,West,Robert Martin,Clothing,Jacket,5,85.57
+1786,12/23/23,West,Anthony Robinson,Electronics,Tablet,4,462.79
+1228,4/20/23,West,Thomas Lewis,Sports,Jump Rope,3,12
+1344,10/26/23,Southwest,Joshua Walker,Sports,Yoga Mat,5,29.68
+1548,2/28/23,Midwest,Michelle Smith,Clothing,Hoodie,4,40.23
+1996,2/10/23,Southwest,Ashley Ramirez,Office,Pen Set,3,
+1016,12/15/23,Northeast,Michelle Smith,Sports,Jump Rope,5,12.34
+1612,12/22/23,Southwest,Andrew Taylor,Home & Garden,Blender,4,47.81
+1040,11/10/23,West,Mark Martin,Clothing,Jacket,1,86.12
+1617,4/4/23,Southeast,Andrew Moore,Home & Garden,Desk Lamp,4,33.02
+1333,7/17/23,Northeast,Joshua Lee,Home & Garden,Blender,3,41.33
+1992,7/3/23,Northeast,Lisa Rodriguez,Home & Garden,Wall Clock,3,31.8
+1404,6/13/23,Midwest,Sarah Clark,Office,Monitor Stand,1,47.24
+1697,6/6/23,Southeast,Daniel Johnson,Home & Garden,Desk Lamp,3,32.82
+1999,7/1/23,Midwest,Andrew Taylor,Electronics,Smartwatch,5,
+1202,10/11/23,Northeast,Donald White,Clothing,Jacket,5,81.93
+1391,7/7/23,West,,Home & Garden,Throw Pillow,2,24.42
+1251,2/7/23,Southwest,Betty Jackson,Electronics,Keyboard,5,50.61
+1361,10/12/23,Southeast,Emily Lopez,Office,Monitor Stand,4,49.22
+1357,11/9/23,Southwest,Christopher Harris,Sports,Jump Rope,5,14.2
+1459,8/5/23,Northeast,William Williams,Clothing,Jeans,4,53.07
+1605,8/13/23,Northeast,Susan Young,Home & Garden,Blender,2,41.01
+1212,7/19/23,Southwest,Paul Johnson,Home & Garden,Coffee Maker,1,65.43
+1089,5/4/23,Southwest,Richard Garcia,Office,Notebook,4,9.02
+1345,2/25/23,Southeast,Betty Garcia,Office,Monitor Stand,3,50.43
+1005,7/3/23,Midwest,Matthew Miller,Clothing,Jacket,5,82.83
+1462,10/18/23,West,Barbara Martinez,Office,Monitor Stand,5,46.12
+1676,9/28/23,Northeast,Patricia Moore,Office,Monitor Stand,1,53.21
+1244,6/13/23,Southeast,Steven Miller,Sports,Dumbbells,4,57.86
+1598,10/2/23,Southwest,Thomas Taylor,Clothing,Sneakers,5,77.26
+2000,4/4/23,Southwest,Ashley Lopez,Electronics,Keyboard,1,
+1331,3/9/23,Northeast,Karen Miller,Home & Garden,Wall Clock,2,
+1069,7/28/23,Midwest,Robert Clark,Sports,Dumbbells,5,57.26
+1890,3/3/23,Midwest,Sarah Johnson,Home & Garden,Wall Clock,4,28.07
+1468,4/7/23,Southwest,Joshua Garcia,Home & Garden,Desk Lamp,2,36.59
+1863,12/30/23,West,Linda Walker,Sports,Water Bottle,5,20
+1890,3/3/23,Midwest,Sarah Johnson,Home & Garden,Wall Clock,4,28.07
+1928,5/26/23,Midwest,Matthew Thompson,Home & Garden,Wall Clock,1,30.54
+1236,6/15/23,Southeast,David Hernandez,Electronics,Keyboard,3,46.52
+1500,7/14/23,Northeast,Anthony Lewis,Electronics,Laptop,5,934.14
+1175,5/11/23,Midwest,Jessica Rodriguez,Electronics,Laptop,3,846.79
+1165,3/21/23,Southwest,Michael Wilson,Home & Garden,Blender,2,43.3
+1340,6/16/23,Southwest,Emily Thomas,Sports,Running Shoes,3,81.45
+1675,11/24/23,Northeast,Jennifer Robinson,Clothing,Sneakers,3,81.42
+1140,6/23/23,Northeast,Donald Jackson,Clothing,Jacket,4,97.44
+1232,11/10/23,Northeast,Ashley Rodriguez,Home & Garden,Blender,1,45.64
+1797,11/6/23,Southeast,James Davis,Home & Garden,Desk Lamp,5,37.49
+1386,2/21/23,Southeast,,Sports,Jump Rope,1,13.47
+1745,11/17/23,Northeast,Mary Robinson,Home & Garden,Throw Pillow,2,22.5
+1779,10/19/23,Midwest,Christopher Martin,Sports,Dumbbells,4,51.75
+1967,2/15/23,Midwest,Thomas Martinez,Sports,Jump Rope,2,12.81
+1710,6/24/23,Southwest,Joseph Martinez,Electronics,Keyboard,2,54.48
+1936,5/28/23,Midwest,Robert Wilson,Home & Garden,Wall Clock,1,28.2
+1988,6/16/23,West,Amanda Lewis,Electronics,Headphones,2,87.51
+1163,3/8/23,West,Michael White,Electronics,Laptop,1,826.77
+1411,12/25/23,Midwest,Joseph Clark,Home & Garden,Coffee Maker,4,54.52
+1491,3/28/23,West,Karen Wilson,Home & Garden,Coffee Maker,2,54.05
+1259,3/17/23,Southeast,David Harris,Clothing,T-Shirt,1,20.32
+1924,8/19/23,Midwest,Linda Harris,Electronics,Smartwatch,4,215.19
+1866,5/31/23,Southwest,Jessica Johnson,Clothing,Sneakers,5,69.75
+1222,6/29/23,Southwest,David Lewis,Sports,Jump Rope,1,13.56
+1945,5/6/23,Midwest,Richard Johnson,Sports,Dumbbells,4,50.74
+1767,8/22/23,Midwest,Ashley Miller,Sports,Jump Rope,4,12.03
+1650,5/26/23,West,Amanda Moore,Sports,Dumbbells,3,55.17
+1372,5/22/23,Southeast,Anthony Brown,Electronics,Tablet,2,491.64
+1537,4/15/23,West,Patricia Jackson,Home & Garden,Desk Lamp,1,32.52
+1944,5/12/23,West,Charles Hernandez,Clothing,Sneakers,2,71.49
+1628,3/16/23,Southeast,Matthew Gonzalez,Home & Garden,Throw Pillow,4,25.27
+1673,12/3/23,Southwest,John Harris,Electronics,Smartwatch,5,187.66
+1950,9/12/23,Northeast,,Office,Pen Set,2,13.03
+1671,11/25/23,Midwest,Christopher Clark,Office,Stapler,1,15.33
+1308,4/15/23,Midwest,Donald Lee,Office,Monitor Stand,3,49.65
+1896,12/17/23,Midwest,Lisa Moore,Home & Garden,Desk Lamp,1,37.28
+1166,5/23/23,West,Betty Davis,Electronics,Headphones,2,85.52
+1606,11/11/23,Southeast,Joshua Anderson,Office,Desk Chair,1,281.68
+1289,2/5/23,Southwest,Robert Brown,Electronics,Laptop,1,886.26
+1713,6/8/23,West,Richard Rodriguez,Clothing,Jeans,2,50.8
+1360,8/3/23,West,Steven Harris,Clothing,Jacket,2,93.47
+1390,9/28/23,Northeast,Emily Jones,Sports,Water Bottle,3,18.44
+1257,6/19/23,Northeast,,Sports,Jump Rope,4,12.47
+1280,12/8/23,Northeast,Sarah Brown,Electronics,Headphones,4,82.45
+1494,12/22/23,Midwest,Sarah Anderson,Clothing,T-Shirt,3,20.7
+1802,7/14/23,Southwest,Paul Anderson,Sports,Water Bottle,4,19.2
+1001,3/13/23,Northeast,Sarah Anderson,Electronics,Laptop,5,943.47
+1972,1/6/23,Southwest,Ashley Garcia,Home & Garden,Blender,2,46.65
+1871,11/13/23,Southeast,Ashley Hernandez,Electronics,Tablet,5,436.77
+1813,8/14/23,Northeast,Thomas Lopez,Electronics,Headphones,4,87.28
+1002,4/22/23,Southeast,Mary Garcia,Electronics,Keyboard,5,49.21
+1975,6/4/23,Southwest,Steven Harris,Office,Notebook,3,8.1
+1463,10/2/23,Midwest,Michael Jackson,Electronics,Laptop,4,911.27
+1728,8/21/23,Northeast,Carol Gonzalez,Sports,Yoga Mat,3,28.06
+1614,11/21/23,Southeast,Robert Harris,Electronics,Smartwatch,2,184.64
+1590,4/14/23,West,Michael Johnson,Clothing,Sneakers,5,
+1383,2/15/23,Northeast,Joseph Harris,Sports,Dumbbells,1,54.74
+1602,3/24/23,Southwest,Nancy Brown,Clothing,Hoodie,1,39.19
+1209,2/2/23,Northeast,Anthony Robinson,Home & Garden,Coffee Maker,4,54.56
+1513,7/3/23,West,Susan Harris,Sports,Jump Rope,1,13.45
+1086,8/19/23,Southeast,Jennifer Moore,Home & Garden,Desk Lamp,4,37.45
+1742,9/5/23,West,Michael Garcia,Clothing,Jeans,3,51.11
+1552,11/17/23,Northeast,Paul Smith,Electronics,Tablet,2,492.44
+1850,1/8/23,Southwest,Ashley Moore,Sports,Dumbbells,2,56
+1129,7/11/23,Southwest,Charles Thompson,Electronics,Headphones,2,84.73
+1253,4/12/23,West,Betty Martinez,Home & Garden,Desk Lamp,5,35.39
+1104,8/6/23,Northeast,Carol Gonzalez,Electronics,Tablet,5,488.14
+1556,10/1/23,Northeast,Matthew Davis,Sports,Water Bottle,5,19.26
+1704,7/18/23,Midwest,James Jones,Electronics,Smartwatch,3,206.18
+1794,10/16/23,Midwest,Joshua Martin,Home & Garden,Throw Pillow,1,22.67
+1582,3/18/23,Southeast,Karen Wilson,Clothing,Jeans,2,45.76
+1030,2/17/23,Southeast,Paul Smith,Sports,Jump Rope,2,11.95
+1496,8/11/23,Southeast,,Home & Garden,Desk Lamp,3,34.68
+1068,3/12/23,Southeast,Paul Garcia,Clothing,Jacket,2,87.04
+1417,4/21/23,Midwest,Lisa Williams,Electronics,Laptop,2,838.36
+1476,5/10/23,West,James Anderson,Clothing,Jeans,3,
+1326,2/8/23,Midwest,Sandra Anderson,Office,Desk Chair,5,273.21
+1888,9/10/23,West,Lisa Martin,Home & Garden,Blender,4,44.91
+1276,6/22/23,Midwest,Susan Smith,Clothing,Sneakers,5,77.21
+1593,7/9/23,Northeast,Sandra Clark,Office,Notebook,5,9.7
+1395,6/8/23,Southwest,Margaret Jones,Clothing,Jeans,2,50.35
+1658,8/31/23,Southwest,Michael Wilson,Clothing,T-Shirt,3,18.79
+1521,2/16/23,West,Michelle Smith,Sports,Water Bottle,5,18.13
+1505,5/1/23,Northeast,Donald Perez,Office,Monitor Stand,1,54.09
+1243,6/10/23,Midwest,Joshua Martinez,Sports,Water Bottle,3,18.81
+1246,10/23/23,Midwest,David Lee,Office,Monitor Stand,2,47.47
+1208,2/26/23,Midwest,Barbara Ramirez,Electronics,Headphones,2,75.44
+1054,1/23/23,Southwest,Richard Taylor,Electronics,Smartwatch,1,215.97
+1620,11/14/23,Midwest,,Electronics,Keyboard,4,54.57
+1385,6/29/23,Southeast,David Lewis,Office,Pen Set,2,10.81
+1811,5/22/23,Southwest,Robert Robinson,Home & Garden,Wall Clock,3,30.95
+1499,11/1/23,Northeast,Amanda Brown,Sports,Running Shoes,1,89.6
+1423,1/16/23,Southwest,Margaret Young,Clothing,Hoodie,4,39.46
+1685,2/18/23,Northeast,Andrew Martinez,Office,Pen Set,4,12.16
+1328,4/6/23,West,Matthew Ramirez,Sports,Dumbbells,4,53.4
+1592,12/4/23,Southeast,Jennifer Walker,Office,Pen Set,5,12.6
+1833,1/4/23,Northeast,Emily Garcia,Sports,Dumbbells,2,49.66
+1790,9/27/23,Midwest,Jennifer Martinez,Electronics,Keyboard,4,49.81
+1880,1/12/23,Northeast,Karen Gonzalez,Office,Stapler,5,15.83
+1028,5/8/23,Southeast,Nancy Miller,Electronics,Laptop,2,820.9
+1186,8/25/23,Southwest,Robert Martin,Office,Notebook,1,8.72
+1883,6/7/23,Southwest,Daniel Thompson,Sports,Running Shoes,5,76.7
+1061,4/26/23,Southeast,Sarah Martin,Home & Garden,Coffee Maker,2,63.81
+1174,4/23/23,Southwest,Lisa Williams,Office,Monitor Stand,5,50.26
+1418,12/13/23,Midwest,Margaret Brown,Electronics,Tablet,3,492.15
+1315,12/4/23,Southwest,Patricia Walker,Clothing,Hoodie,1,39.64
+1954,3/16/23,Midwest,Sarah Moore,Office,Monitor Stand,4,49.74
+1817,10/22/23,Northeast,Nancy Sanchez,Electronics,Smartwatch,5,190.65
+1262,6/10/23,Southeast,Donald Harris,Clothing,Hoodie,4,38.59
+1678,10/13/23,West,Sarah Lopez,Sports,Dumbbells,4,51.61
+1722,1/22/23,West,Sandra Sanchez,Home & Garden,Wall Clock,4,32.31
+1293,5/7/23,Southwest,Matthew Anderson,Sports,Jump Rope,3,12.79
+1173,8/9/23,Northeast,Linda Thompson,Home & Garden,Throw Pillow,3,26.26
+1629,9/7/23,Midwest,William Lee,Electronics,Tablet,3,442.93
+1955,12/6/23,Northeast,Joshua Williams,Home & Garden,Desk Lamp,2,31.64
+1118,10/10/23,Southeast,Sarah Robinson,Sports,Water Bottle,4,21.91
+1094,2/21/23,Southeast,Karen Jackson,Clothing,Jeans,3,52.38
+1264,12/27/23,Southeast,Lisa Jackson,Office,Desk Chair,4,283.48
+1392,5/15/23,Southeast,Robert Smith,Sports,Yoga Mat,1,27.09
+1690,6/6/23,West,Matthew Brown,Clothing,Hoodie,1,43.42
+1860,6/21/23,Southeast,Jessica Rodriguez,Office,Notebook,5,9.1
+1025,2/6/23,West,John Perez,Electronics,Laptop,2,851.2
+1927,9/17/23,Northeast,Donald Hernandez,Office,Pen Set,4,12.16
+1618,4/28/23,Southeast,Thomas Wilson,Clothing,Jeans,2,52.34
+1448,4/8/23,Southwest,Nancy Wilson,Sports,Dumbbells,5,50.08
+1877,6/23/23,Northeast,Andrew Lewis,Home & Garden,Blender,4,46.49
+1815,2/22/23,Northeast,Mark Taylor,Clothing,Hoodie,1,41.14
+1504,6/1/23,Southeast,Daniel Clark,Home & Garden,Blender,1,49.25
+1642,9/1/23,Southwest,Daniel Lee,Office,Stapler,5,13.58
+1684,1/12/23,Midwest,,Electronics,Headphones,5,87.74
+1872,5/2/23,Northeast,Barbara Hernandez,Home & Garden,Throw Pillow,1,27.36
+1329,2/12/23,Midwest,Sarah Jones,Electronics,Keyboard,2,47.94
+1777,4/22/23,Southeast,Patricia Garcia,Home & Garden,Wall Clock,5,30.86
+1837,9/29/23,Northeast,Richard Davis,Sports,Yoga Mat,5,30.34
+1455,3/19/23,Northeast,Karen Brown,Sports,Water Bottle,1,19.04
+1594,6/29/23,West,Donald Harris,Sports,Dumbbells,5,59.81
+1923,10/4/23,West,Paul Perez,Sports,Water Bottle,1,20.01
+1853,10/13/23,Northeast,Sarah Garcia,Sports,Yoga Mat,4,29.7
+1282,3/20/23,Southwest,William Walker,Home & Garden,Blender,5,42.48
+1661,7/22/23,Southeast,Carol Davis,Electronics,Tablet,1,476.48
+1185,8/15/23,Midwest,Robert Walker,Home & Garden,Desk Lamp,3,32.55
+1545,9/27/23,Southeast,Robert Lee,Sports,Jump Rope,2,13.12
+1701,10/7/23,West,Jessica Wilson,Home & Garden,Throw Pillow,3,26.19
+1020,1/30/23,Southeast,Lisa Thomas,Electronics,Laptop,5,977.23
+1515,12/9/23,Midwest,Donna Anderson,Home & Garden,Desk Lamp,5,31.58
+1917,4/30/23,Southwest,Margaret Davis,Clothing,Jacket,4,84.6
+1194,3/7/23,West,Matthew Perez,Office,Notebook,1,8.65
+1445,1/11/23,Midwest,John Jackson,Clothing,Jeans,3,49.5
+1584,11/28/23,Southwest,Carol Hernandez,Sports,Water Bottle,1,19.91
+1055,8/9/23,Northeast,,Office,Pen Set,3,12.44
+1591,11/11/23,West,Susan Walker,Sports,Dumbbells,1,56.15
+1555,7/28/23,Southwest,Joseph Taylor,Home & Garden,Blender,4,41.12
+1757,9/22/23,Southeast,Barbara Miller,Office,Desk Chair,2,316.52
+1932,1/20/23,Southwest,Paul Lee,Electronics,Headphones,4,74.71
+1427,9/3/23,West,Matthew Thompson,Clothing,Hoodie,4,42.35
+1796,5/10/23,Southeast,Robert Moore,Sports,Yoga Mat,5,27.75
+1575,10/17/23,West,David Lopez,Clothing,Hoodie,2,37.11
+1317,2/24/23,Northeast,Sandra Lopez,Home & Garden,Coffee Maker,5,60.02
+1906,2/16/23,Southeast,Daniel Johnson,Office,Stapler,3,14.04
+1026,5/5/23,Southwest,William Walker,Home & Garden,Wall Clock,4,28.28
+1170,3/22/23,Midwest,Ashley Perez,Office,Stapler,3,14.62
+1091,8/31/23,West,Lisa White,Clothing,Sneakers,5,77.87
+1285,3/26/23,Midwest,Paul Martinez,Office,Pen Set,5,11.28
+1903,1/10/23,Southwest,Linda Jones,Clothing,T-Shirt,4,19.69
+1047,10/14/23,Southwest,Michael Thompson,Home & Garden,Throw Pillow,5,25.9
+1827,3/30/23,Northeast,William Smith,Office,Notebook,3,8.53
+1785,12/3/23,Southwest,Barbara Young,Electronics,Laptop,2,926.7
+1770,11/6/23,West,Charles Thompson,Sports,Water Bottle,2,21.37
+1239,10/16/23,Northeast,,Clothing,Hoodie,1,41.75
+1397,1/7/23,Southeast,Susan Davis,Electronics,Headphones,1,82.65
+1911,3/5/23,Southwest,Linda Lee,Clothing,Hoodie,1,37.81
+1639,8/31/23,West,Michael Jones,Clothing,Jeans,1,48.96
+1851,10/21/23,Northeast,Joseph Martinez,Clothing,Jacket,4,88.81
+1092,6/30/23,Southwest,Michelle Perez,Home & Garden,Wall Clock,3,32.97
+1334,10/20/23,West,Michelle Thomas,Sports,Water Bottle,2,21.11
+1153,3/9/23,Northeast,Linda Johnson,Office,Desk Chair,3,317.9
+1891,10/17/23,Southwest,Carol Walker,Electronics,Keyboard,3,52.45
+1461,1/7/23,West,Karen Robinson,Office,Monitor Stand,5,50.51
+1472,5/4/23,Midwest,Linda Johnson,Home & Garden,Wall Clock,4,30.02
+1752,6/23/23,Southwest,Karen Johnson,Home & Garden,Coffee Maker,5,65.62
+1517,9/11/23,Southeast,David Walker,Office,Pen Set,1,10.92
+1915,7/22/23,Southwest,Emily Miller,Clothing,T-Shirt,5,21.98
+1136,5/27/23,Southeast,Patricia Young,Electronics,Keyboard,5,53.64
+1621,7/23/23,Southeast,Steven Moore,Office,Desk Chair,5,299.44
+1487,1/28/23,West,Linda Walker,Office,Desk Chair,5,297.82
+1765,4/2/23,West,Sandra Sanchez,Electronics,Smartwatch,5,182.14
+1346,8/9/23,Northeast,Margaret Perez,Clothing,Hoodie,1,36.35
+1464,1/20/23,Southeast,Andrew Walker,Home & Garden,Wall Clock,3,30.92
+1960,6/30/23,Southwest,Steven Jones,Electronics,Tablet,5,
+1318,7/1/23,Midwest,Donna Taylor,Clothing,Jeans,4,46.91
+1769,9/1/23,Northeast,Mary Jones,Home & Garden,Desk Lamp,3,34.66
+1493,1/8/23,Midwest,Richard White,Sports,Yoga Mat,5,27.22
+1428,4/3/23,Northeast,Matthew Moore,Home & Garden,Blender,3,45.01
+1046,6/7/23,Midwest,William Williams,Office,Pen Set,1,11.15
+1070,10/27/23,Northeast,Anthony Harris,Sports,Water Bottle,5,18.24
+1266,1/22/23,Midwest,Barbara Jackson,Sports,Water Bottle,1,21.26
+1561,6/6/23,Southeast,Michelle Garcia,Office,Pen Set,3,11.74
+1948,11/5/23,Midwest,Jennifer Lee,Electronics,Laptop,1,964.71
+1003,4/23/23,Southwest,Paul Clark,Office,Notebook,5,9.1
+1501,6/4/23,Southwest,Jessica Smith,Home & Garden,Wall Clock,1,31.2
+1188,10/20/23,Southeast,John Lewis,Sports,Water Bottle,3,20.31
+1221,6/17/23,Midwest,Michael Garcia,Clothing,Hoodie,3,38.34
+1898,4/22/23,Southeast,David Miller,Home & Garden,Wall Clock,5,
+1081,4/12/23,Northeast,Matthew Sanchez,Home & Garden,Blender,5,46.59
+1050,1/13/23,Southeast,Joseph Anderson,Clothing,Sneakers,4,72.74
+1305,1/8/23,Southeast,Nancy Martin,Office,Stapler,2,14.93
+1604,7/25/23,West,,Clothing,Jacket,5,82.43
+1146,12/10/23,West,Ashley White,Clothing,Hoodie,4,37.08
+1147,11/12/23,Southwest,Michael Young,Office,Stapler,3,16.15
+1907,9/16/23,West,Steven Thomas,Office,Desk Chair,1,291.12
+1498,3/5/23,Midwest,Carol Hernandez,Clothing,Jeans,1,52.33
+1302,7/18/23,Southeast,Anthony Rodriguez,Sports,Yoga Mat,3,30.36
+1311,5/12/23,Southwest,Emily Perez,Sports,Jump Rope,4,13.86
+1384,3/10/23,Southeast,William Harris,Home & Garden,Desk Lamp,1,37.66
+1313,2/8/23,Northeast,,Clothing,Hoodie,1,43.91
+1381,9/2/23,Northeast,James Wilson,Sports,Yoga Mat,2,31.21
+1714,6/12/23,Northeast,Andrew Hernandez,Sports,Dumbbells,5,56.71
+1157,8/7/23,Northeast,Donald Sanchez,Sports,Yoga Mat,4,27.36
+1536,4/13/23,Midwest,Patricia Brown,Electronics,Laptop,2,878.55
+1042,6/25/23,Southeast,Joshua Wilson,Office,Stapler,3,14.31
+1297,10/23/23,West,Andrew Lee,Home & Garden,Throw Pillow,3,26.57
+1586,9/22/23,Southwest,Thomas Lopez,Office,Stapler,5,13.66
+1962,10/22/23,Northeast,Lisa Lee,Clothing,T-Shirt,1,
+1893,3/25/23,Northeast,William Thompson,Electronics,Tablet,3,433.76
+1113,7/31/23,Northeast,James Robinson,Sports,Jump Rope,2,13.83
+1419,2/18/23,Southwest,Mark Thomas,Clothing,T-Shirt,1,21.8
+1617,4/4/23,Southeast,,Home & Garden,Desk Lamp,4,33.02
+1122,4/30/23,Southwest,Sarah Harris,Sports,Running Shoes,1,91.27
+1740,10/9/23,Northeast,Robert Ramirez,Home & Garden,Desk Lamp,3,37.77
+1472,5/4/23,Midwest,Linda Johnson,Home & Garden,Wall Clock,4,
+1965,1/11/23,Northeast,Matthew Anderson,Sports,Running Shoes,5,79.58
+1034,1/30/23,West,Donna Hernandez,Office,Monitor Stand,1,50.02
+1485,12/15/23,Midwest,Michelle Lopez,Clothing,Jacket,1,94.04
+1467,3/10/23,Midwest,Michael Anderson,Home & Garden,Wall Clock,4,32.14
+1218,5/20/23,Northeast,Patricia Perez,Home & Garden,Desk Lamp,3,37.52
+1712,8/18/23,West,Joshua Perez,Clothing,Sneakers,2,82.05
+1970,8/3/23,Southeast,Charles Gonzalez,Sports,Dumbbells,4,
+1542,7/13/23,Northeast,Susan Davis,Clothing,T-Shirt,4,18.74
+1526,3/3/23,Southwest,Richard Gonzalez,Sports,Yoga Mat,2,28.52
+1133,11/24/23,Southwest,Carol Martin,Electronics,Smartwatch,3,217.8
+1990,5/3/23,Southwest,Thomas Lopez,Office,Monitor Stand,1,45.92
+1497,1/10/23,Southeast,,Sports,Running Shoes,2,89.24
+1765,4/2/23,West,Sandra Sanchez,Electronics,Smartwatch,5,182.14
+1805,5/11/23,West,Karen Miller,Office,Desk Chair,4,290.09
+1148,7/5/23,Northeast,Mark Thomas,Electronics,Headphones,3,75.47
+1167,11/8/23,Midwest,Amanda Johnson,Sports,Jump Rope,1,14.22
+1427,9/3/23,West,Matthew Thompson,Clothing,Hoodie,4,42.35
+1502,2/23/23,West,William Clark,Office,Desk Chair,5,307.36
+1706,4/6/23,Southeast,Paul Garcia,Home & Garden,Wall Clock,5,32.19
+1451,4/13/23,Northeast,Joshua Walker,Electronics,Headphones,1,85.17
+1434,1/11/23,West,Joseph Anderson,Sports,Yoga Mat,4,27.53
+1652,4/7/23,Midwest,Amanda Young,Office,Monitor Stand,1,47.71
+1958,11/20/23,Midwest,David Lewis,Home & Garden,Throw Pillow,4,26.79
+1599,7/31/23,West,Margaret Wilson,Home & Garden,Blender,5,42.97
+1271,11/30/23,West,Patricia Garcia,Clothing,Jacket,2,86.77
+1405,4/25/23,West,Patricia Lopez,Office,Desk Chair,1,277.15
+1532,12/26/23,West,Steven Martin,Sports,Jump Rope,3,13.51
+1573,3/10/23,Southwest,Carol Jackson,Sports,Dumbbells,5,59.3
+1603,2/15/23,Northeast,Joshua Ramirez,Electronics,Tablet,3,447.44
+1413,5/30/23,Midwest,,Electronics,Smartwatch,3,206.49
+1539,7/15/23,Southwest,Charles Brown,Clothing,Hoodie,4,42.26
+1694,9/4/23,West,William Rodriguez,Electronics,Smartwatch,2,200.06
+1379,5/21/23,Northeast,Lisa Hernandez,Clothing,Jeans,3,53.81
+1080,2/25/23,West,David Martin,Office,Notebook,1,9.49
+1939,12/6/23,West,Lisa Ramirez,Electronics,Headphones,3,80.06
+1220,2/10/23,Southwest,Jennifer Ramirez,Home & Garden,Blender,5,42.89
+1488,12/15/23,Southwest,Richard Davis,Office,Notebook,5,8.94
+1134,2/24/23,Southeast,Matthew Walker,Sports,Running Shoes,4,79.88
+1957,6/4/23,Northeast,Margaret Taylor,Sports,Yoga Mat,2,32.45
+1064,1/26/23,West,Donna Robinson,Sports,Dumbbells,2,51.43
+1095,5/21/23,Northeast,James Rodriguez,Clothing,Jacket,1,84.22
+1084,8/11/23,Southeast,Ashley Martinez,Electronics,Smartwatch,5,218.42
+1422,1/22/23,Southwest,Nancy Davis,Clothing,T-Shirt,1,21.61
+1436,9/27/23,Midwest,Barbara Davis,Electronics,Laptop,1,836.58
+1729,2/28/23,Southwest,Linda Garcia,Home & Garden,Throw Pillow,3,26.08
+1858,1/29/23,West,Jennifer Perez,Office,Stapler,3,15.85
+1101,11/17/23,Southeast,Michael Wilson,Office,Pen Set,3,10.94
+1466,6/22/23,Midwest,Betty Johnson,Electronics,Smartwatch,3,216.82
+1926,2/26/23,West,Matthew Young,Sports,Dumbbells,4,52.93
+1198,12/21/23,West,David Lopez,Clothing,Hoodie,2,39
+1597,7/29/23,Midwest,Jessica Lee,Office,Notebook,1,8.77
+1908,4/9/23,Midwest,Donna Wilson,Electronics,Keyboard,2,52.62
+1336,2/9/23,Midwest,Lisa Walker,Clothing,Sneakers,3,71.63
+1973,11/2/23,Midwest,Matthew Ramirez,Home & Garden,Wall Clock,1,31.11
+1254,6/20/23,Southwest,John Rodriguez,Sports,Jump Rope,5,11.8
+1756,4/8/23,Midwest,Steven Martinez,Office,Notebook,4,9.53
+1828,2/24/23,Northeast,Carol Jones,Electronics,Smartwatch,4,204.44
+1387,3/13/23,Southeast,Sandra Lee,Office,Monitor Stand,3,48.51
+1780,3/7/23,Midwest,Amanda Sanchez,Home & Garden,Coffee Maker,1,60.98
+1144,12/25/23,Midwest,Robert Robinson,Home & Garden,Blender,4,42.48
+1689,8/11/23,Southwest,Nancy Thompson,Electronics,Laptop,1,975.93
+1901,12/30/23,Midwest,Nancy Lopez,Sports,Jump Rope,1,13.05
+1929,10/26/23,Northeast,Betty Thompson,Electronics,Keyboard,3,45.44
+1683,9/23/23,Southeast,Charles Johnson,Sports,Yoga Mat,3,31.35
+1292,1/2/23,Northeast,William Anderson,Clothing,Hoodie,3,39.13
+1307,6/7/23,Midwest,Paul Thompson,Home & Garden,Desk Lamp,3,34.15
+1359,5/3/23,Midwest,Christopher Davis,Office,Notebook,1,9.3
+1240,11/30/23,Southeast,Andrew Taylor,Electronics,Laptop,5,
+1610,5/14/23,Southeast,Margaret Smith,Office,Stapler,4,14.85
+1547,6/19/23,Midwest,Jessica Perez,Electronics,Headphones,3,75.53
+1682,7/4/23,Southwest,Michelle Taylor,Office,Stapler,4,14.62
+1799,3/16/23,West,Nancy Garcia,Clothing,Hoodie,2,42.89
+1109,9/23/23,Southwest,Susan Walker,Electronics,Headphones,3,81.21
+1580,9/22/23,Southwest,Matthew Anderson,Office,Notebook,3,9.02
+1596,10/23/23,West,James Smith,Office,Monitor Stand,1,
+1764,1/15/23,Southwest,Patricia Rodriguez,Office,Desk Chair,1,302.42
+1242,3/22/23,Southwest,Robert Brown,Clothing,Sneakers,4,71.95
+1348,1/13/23,Southwest,Barbara Thompson,Sports,Jump Rope,1,13.48
+1465,7/22/23,Midwest,Margaret Williams,Sports,Dumbbells,2,56.29
+1006,7/13/23,Northeast,Paul Davis,Home & Garden,Coffee Maker,5,62.75
+1755,4/14/23,Northeast,Betty Williams,Office,Desk Chair,4,280.49
+1587,4/21/23,Southwest,Charles Garcia,Office,Notebook,5,9.67
+1306,7/23/23,Southeast,Joshua Wilson,Electronics,Smartwatch,5,216.57
+1460,2/4/23,Northeast,Thomas Lee,Clothing,Jeans,4,53.33
+1128,3/27/23,Midwest,Michael Lewis,Electronics,Smartwatch,1,219.12
+1667,6/15/23,Southwest,Paul Thompson,Sports,Dumbbells,3,55.72
+1775,10/12/23,Northeast,Ashley Lee,Sports,Yoga Mat,4,30.54
+1049,1/20/23,Southwest,Michael Harris,Sports,Dumbbells,2,52.43
+1127,5/1/23,Midwest,John Jones,Home & Garden,Wall Clock,2,32.22
+1363,7/29/23,Southwest,Michelle Young,Clothing,Jeans,4,53.14
+1974,8/30/23,Midwest,Nancy Thomas,Electronics,Keyboard,5,45.58
+1643,10/30/23,West,Paul Lopez,Home & Garden,Blender,4,44.49
+1266,1/22/23,Midwest,Barbara Jackson,Sports,Water Bottle,1,21.26
+1930,6/29/23,Northeast,Daniel Clark,Sports,Yoga Mat,2,29.56
+1062,8/22/23,Southwest,Donald Jones,Electronics,Laptop,5,854.06
+1750,8/25/23,Southwest,Paul Perez,Sports,Dumbbells,1,56.39
+1989,1/29/23,Northeast,Charles Lee,Clothing,T-Shirt,5,21.2
+1934,10/21/23,Northeast,Matthew Lee,Electronics,Headphones,4,78.03
+1433,10/5/23,Midwest,Richard Young,Office,Stapler,2,15.18
+1744,4/3/23,West,Emily Young,Sports,Jump Rope,2,13.59
+1868,7/30/23,West,Donna Perez,Electronics,Tablet,3,480.13
+1793,8/4/23,Midwest,Andrew Perez,Sports,Jump Rope,3,14.04
+1248,10/26/23,Midwest,Sarah Wilson,Electronics,Smartwatch,1,200.21
+1272,4/1/23,Northeast,Susan Clark,Office,Notebook,4,9.73
+1607,5/22/23,Southwest,David Garcia,Home & Garden,Throw Pillow,3,25.76
+1553,11/28/23,Northeast,Jessica Ramirez,Clothing,Sneakers,2,80.02
+1029,8/25/23,Southeast,,Office,Monitor Stand,1,46.39
+1024,10/29/23,Southeast,Mary Anderson,Clothing,Jeans,1,45.63
+1164,7/1/23,Southwest,Linda Clark,Office,Pen Set,1,12.14
+1651,5/29/23,Northeast,Susan Rodriguez,Sports,Dumbbells,4,58.88
+1776,12/17/23,West,Robert Miller,Clothing,Jacket,4,98.19
+1828,2/24/23,Northeast,Carol Jones,Electronics,Smartwatch,4,
+1534,6/30/23,West,Christopher Davis,Clothing,Hoodie,4,40.33
+1320,10/10/23,Southwest,Matthew Harris,Electronics,Laptop,1,826.82
+1566,12/22/23,West,Nancy Martin,Clothing,Jacket,2,89.74
+1524,6/24/23,Midwest,Joseph Smith,Electronics,Laptop,3,946.67
+1096,2/22/23,Northeast,William Young,Office,Desk Chair,5,311.83
+1219,4/6/23,Southwest,Matthew Perez,Sports,Water Bottle,4,20.96
+1291,12/1/23,Midwest,Paul Rodriguez,Sports,Water Bottle,1,18.31
+1554,2/7/23,Northeast,John Garcia,Electronics,Smartwatch,2,208.66
+1875,9/13/23,Southeast,Mary Sanchez,Office,Desk Chair,4,277.28
+1130,3/31/23,Northeast,Susan Hernandez,Clothing,Hoodie,5,39.29
+1758,1/3/23,Midwest,Donna Davis,Electronics,Smartwatch,1,195.49
+1737,6/19/23,Northeast,John Martin,Home & Garden,Coffee Maker,1,55.74
+1743,3/8/23,West,Thomas Thompson,Sports,Jump Rope,5,13.89
+1400,9/12/23,Southwest,Andrew Jones,Electronics,Headphones,5,83.39
+1951,10/27/23,Southwest,Christopher Perez,Office,Notebook,2,9.48
+1551,6/14/23,West,Charles Gonzalez,Office,Monitor Stand,1,49.86
+1885,3/15/23,Southeast,Carol Garcia,Sports,Water Bottle,3,
+1086,8/19/23,Southeast,Jennifer Moore,Home & Garden,Desk Lamp,4,37.45
+1309,1/9/23,Midwest,Joseph Martinez,Sports,Yoga Mat,5,30.37
+1203,8/19/23,West,David Moore,Electronics,Headphones,2,73.33
+1795,11/16/23,Northeast,Patricia Jackson,Sports,Jump Rope,3,12.13
+1415,8/27/23,Midwest,David Lewis,Office,Notebook,4,8.37
+1665,1/11/23,Southwest,Mark Gonzalez,Office,Desk Chair,3,318.32
+1981,12/28/23,Southwest,Thomas Hernandez,Clothing,Jeans,4,45.35
+1832,3/10/23,Northeast,Carol Williams,Clothing,Sneakers,5,71.15
+1354,8/19/23,West,Amanda Gonzalez,Sports,Water Bottle,4,18.11
+1715,6/13/23,Southwest,Barbara Johnson,Office,Notebook,4,8.42
+1961,11/25/23,Southeast,Mary Brown,Office,Desk Chair,4,297.19
+1668,8/19/23,Midwest,Donna Martinez,Office,Pen Set,3,11.18
+1634,7/15/23,West,Mark Garcia,Office,Monitor Stand,3,52.74
+1808,5/26/23,Midwest,Daniel Anderson,Office,Notebook,2,9.32
+1640,5/15/23,West,Jennifer Miller,Electronics,Smartwatch,2,200.95
+1558,7/22/23,Northeast,Mark Harris,Home & Garden,Blender,4,41.27
+1311,5/12/23,Southwest,Emily Perez,Sports,Jump Rope,4,13.86
+1660,5/1/23,Southwest,Jessica Davis,Clothing,Jacket,3,96.96
+1457,9/1/23,Midwest,Donald Thomas,Office,Monitor Stand,1,54.65
+1414,2/8/23,Southeast,Karen Anderson,Sports,Running Shoes,2,81.9
+1870,9/5/23,Midwest,Thomas Anderson,Clothing,Jacket,3,84.08
+1151,10/28/23,Southeast,Michelle Wilson,Clothing,T-Shirt,2,21.31
+1983,4/3/23,Southeast,Jessica Jackson,Clothing,T-Shirt,5,19.39
+1541,4/10/23,Midwest,Joshua Gonzalez,Home & Garden,Blender,4,45.41
+1287,10/16/23,Northeast,Anthony Robinson,Electronics,Smartwatch,5,185.27
+1847,5/24/23,Southeast,Andrew Brown,Clothing,Jacket,1,83.28
+1009,12/26/23,Northeast,Jessica Moore,Home & Garden,Throw Pillow,5,24.34
+1353,7/27/23,Southeast,Ashley Anderson,Clothing,Jacket,2,91.07
+1322,5/19/23,Northeast,Andrew Walker,Electronics,Tablet,1,424.02
+1761,5/20/23,Southeast,Mark Davis,Home & Garden,Blender,2,43.36
+1739,1/19/23,Northeast,,Office,Stapler,3,16.39
+1312,3/13/23,West,Daniel Hernandez,Sports,Dumbbells,4,57.55
+1567,3/28/23,Northeast,Christopher Ramirez,Office,Pen Set,3,11.67
+1718,2/10/23,Southwest,Mary Thompson,Clothing,Hoodie,2,37.85
+1698,4/30/23,Southeast,Mark Williams,Office,Monitor Stand,3,51.22
+1956,10/1/23,Southeast,Betty Davis,Home & Garden,Blender,4,43.95
+1430,12/3/23,Southeast,Michael Thomas,Office,Stapler,3,16.41
+1303,2/17/23,West,Mark White,Clothing,Jacket,2,92.63
+1533,12/18/23,Midwest,Amanda Jackson,Office,Stapler,2,14.09
+1884,8/15/23,Midwest,Mark Clark,Electronics,Tablet,2,470.5
+1991,11/28/23,Southeast,Margaret Jackson,Electronics,Tablet,1,419.66
+1731,3/25/23,Southeast,Andrew Martinez,Electronics,Tablet,2,487.09
+1647,1/5/23,Southwest,Donald Martin,Electronics,Smartwatch,3,
+1060,5/26/23,West,David Garcia,Office,Monitor Stand,5,52.93
+1589,11/2/23,West,Nancy Robinson,Office,Desk Chair,1,280.05
+1722,1/22/23,West,Sandra Sanchez,Home & Garden,Wall Clock,4,32.31
+1657,5/8/23,Southwest,James Davis,Clothing,Jacket,4,95.7
+1677,2/21/23,Southeast,Donna Miller,Home & Garden,Coffee Maker,5,65.32
+1019,11/3/23,Midwest,David Smith,Clothing,Jeans,4,48.73
+1778,7/19/23,West,Mark Jackson,Electronics,Tablet,5,464.47
+1403,3/18/23,Southeast,Betty Harris,Electronics,Tablet,1,409.13
+1063,12/2/23,Northeast,Sarah Martinez,Clothing,Sneakers,1,74.91
+1445,1/11/23,Midwest,John Jackson,Clothing,Jeans,3,49.5
+1169,11/21/23,Northeast,Robert Martinez,Clothing,Hoodie,1,41.25
+1791,5/6/23,Southwest,Amanda Garcia,Office,Notebook,1,9.03
+1412,2/8/23,West,William Sanchez,Electronics,Keyboard,5,45.95
+1323,6/11/23,Northeast,John Lopez,Home & Garden,Blender,2,45.56
+1347,8/17/23,Midwest,Donna Anderson,Electronics,Headphones,4,75.54
+1087,9/11/23,Midwest,Nancy Johnson,Office,Pen Set,2,12.39
+1072,5/20/23,Southwest,Emily Anderson,Office,Pen Set,4,12.94
+1530,9/16/23,Southwest,Joshua Lee,Clothing,Jeans,4,46.03
+1826,9/8/23,Northeast,John Martinez,Office,Stapler,4,16.26
+1548,2/28/23,Midwest,Michelle Smith,Clothing,Hoodie,4,40.23
+1011,1/17/23,Midwest,Patricia Anderson,Clothing,Jacket,4,96.16
+1466,6/22/23,Midwest,Betty Johnson,Electronics,Smartwatch,3,216.82
+1150,5/5/23,Southeast,Patricia Perez,Clothing,Hoodie,5,43.76
+1454,8/17/23,Northeast,Betty Lopez,Clothing,Jacket,3,96.93
+1031,3/26/23,Southwest,Margaret Brown,Sports,Water Bottle,1,19.92
+1966,5/15/23,Southeast,,Office,Stapler,1,16.21
+1699,11/14/23,Southeast,Patricia Thomas,Clothing,T-Shirt,3,18.44
+1814,3/15/23,West,Emily Miller,Clothing,Hoodie,4,39.13
+1529,9/18/23,Southeast,Carol Walker,Electronics,Keyboard,5,54.34
+1873,4/5/23,Southeast,Thomas White,Home & Garden,Blender,5,41.63
+1470,3/30/23,Southeast,Donna Johnson,Home & Garden,Blender,2,44.12
+1420,4/12/23,Southwest,Joseph Rodriguez,Clothing,T-Shirt,3,18.04
+1424,5/24/23,Southwest,Susan Moore,Clothing,Jacket,2,84.86
+1440,11/10/23,Southeast,Joshua Lee,Sports,Jump Rope,5,11.78
+1822,3/13/23,Northeast,Mark Gonzalez,Home & Garden,Wall Clock,2,27.5
+1994,8/11/23,Southwest,,Sports,Yoga Mat,1,31.53
+1234,12/15/23,West,Mark Robinson,Clothing,Jacket,3,92.55
+1807,1/7/23,Southwest,James Jones,Home & Garden,Blender,1,40.59
+1432,12/27/23,Midwest,Daniel Johnson,Clothing,Hoodie,5,38.53
+1543,1/3/23,Midwest,David Taylor,Home & Garden,Blender,4,42.87
+1921,3/20/23,Midwest,,Sports,Yoga Mat,5,32.82
+1772,11/14/23,Southeast,Anthony Thomas,Office,Monitor Stand,5,49
+1156,12/4/23,West,Amanda Williams,Electronics,Smartwatch,3,200.14
+1940,12/10/23,West,Amanda Robinson,Clothing,Sneakers,2,73.52
+1681,11/8/23,Southeast,Sandra Lee,Home & Garden,Desk Lamp,5,34.38
+1645,5/14/23,Southeast,Betty Clark,Clothing,T-Shirt,3,19.76
+1370,9/30/23,Midwest,Andrew Thompson,Clothing,Jeans,5,53.04
+1744,4/3/23,West,Emily Young,Sports,Jump Rope,2,13.59
+1773,12/22/23,West,Nancy Wilson,Clothing,Sneakers,4,73.25
+1733,8/23/23,Southwest,Thomas Smith,Clothing,Jeans,4,45.03
+1382,1/5/23,Midwest,Mark Smith,Office,Stapler,1,15.05
+1273,1/5/23,Midwest,Charles Williams,Sports,Dumbbells,5,59.79
+1088,5/24/23,West,Thomas Perez,Sports,Dumbbells,3,53.39
+1176,3/8/23,Southwest,Sandra Lopez,Electronics,Laptop,5,899.52
+1518,9/17/23,Southeast,Karen Brown,Sports,Running Shoes,5,80.59
+1294,12/5/23,Southwest,Linda Williams,Clothing,Jacket,5,84.38
+1350,6/28/23,Southwest,Donna Walker,Home & Garden,Wall Clock,1,31.7
+1486,6/19/23,Midwest,Lisa Clark,Clothing,Jacket,3,85.01
+1829,6/22/23,Southwest,Richard Ramirez,Office,Pen Set,3,11.32
+1855,8/21/23,Southwest,Carol Johnson,Clothing,Sneakers,2,
+1252,3/7/23,Northeast,Amanda Davis,Sports,Jump Rope,4,12.42
+1007,12/27/23,Northeast,Betty Gonzalez,Home & Garden,Blender,1,48.46
+1943,7/30/23,Midwest,Lisa Ramirez,Sports,Dumbbells,1,52.13
+1687,6/16/23,Southwest,Jessica Jones,Electronics,Keyboard,2,48.99
+1426,8/3/23,Southeast,Matthew Rodriguez,Sports,Yoga Mat,5,27.52
+1450,7/4/23,Northeast,Barbara Brown,Office,Pen Set,4,
+1489,4/13/23,Midwest,Barbara Rodriguez,Home & Garden,Wall Clock,4,27.32
+1869,8/23/23,Midwest,Donna Lewis,Home & Garden,Wall Clock,5,30.55
+1126,6/18/23,West,Margaret Garcia,Sports,Running Shoes,4,82.25
+1142,7/8/23,Midwest,Linda Robinson,Sports,Yoga Mat,5,28.58
+1839,4/1/23,Southeast,Donald Young,Electronics,Tablet,1,466.66
+1343,5/10/23,Southeast,Lisa Thomas,Sports,Water Bottle,4,18.55
+1373,9/8/23,Southeast,Sarah Sanchez,Clothing,Jeans,5,52.1
+1663,11/17/23,Northeast,Amanda Perez,Clothing,Sneakers,1,68.86
+1158,2/3/23,Southeast,Christopher Martinez,Sports,Yoga Mat,3,32.38
+1102,3/22/23,Northeast,Michelle Jones,Electronics,Tablet,4,426.58
+1993,5/18/23,West,Matthew Walker,Office,Stapler,5,14.96
+1751,4/17/23,West,Christopher Johnson,Office,Desk Chair,3,303.89
+1511,7/17/23,Southwest,Ashley Moore,Electronics,Smartwatch,4,196
+1519,8/16/23,West,Jennifer Robinson,Sports,Water Bottle,4,21.26
+1781,2/26/23,Midwest,James Thompson,Home & Garden,Blender,1,49.2
+1453,11/25/23,West,Thomas Garcia,Sports,Water Bottle,4,21.57
+1726,8/26/23,Southwest,Patricia Martinez,Clothing,Sneakers,1,71.91
+1300,7/29/23,Southeast,Christopher Clark,Home & Garden,Wall Clock,3,31.7
+1746,10/14/23,Southeast,Nancy Thompson,Office,Monitor Stand,1,49.13
+1161,8/21/23,Southwest,Anthony Perez,Sports,Water Bottle,4,21.54
+1371,10/21/23,Midwest,Charles Jackson,Office,Stapler,5,14.46
+1933,12/23/23,Southwest,Karen Johnson,Office,Pen Set,5,12.95
+1211,4/6/23,Northeast,,Electronics,Keyboard,5,48.52
+1892,5/13/23,Southeast,Andrew Johnson,Sports,Yoga Mat,5,29.23
+1121,10/10/23,West,Daniel Perez,Clothing,Sneakers,4,75.57
+1646,5/27/23,Southwest,William Thompson,Electronics,Laptop,5,904.19
+1172,11/7/23,Southwest,Sandra Young,Electronics,Headphones,4,79.08
+1108,12/12/23,West,Jennifer Anderson,Home & Garden,Blender,5,42.74
+1520,12/1/23,Northeast,Linda Young,Electronics,Smartwatch,1,197.87
+1043,11/21/23,Southwest,Patricia Garcia,Office,Monitor Stand,3,
+1941,4/20/23,Southwest,Andrew Young,Electronics,Keyboard,3,53.62
+1844,4/23/23,Northeast,Richard Harris,Electronics,Tablet,4,471.39
+1105,1/31/23,Southeast,,Clothing,Jeans,3,54.07
+1971,11/13/23,Southwest,,Clothing,T-Shirt,2,19.15
+1879,11/8/23,Southeast,Christopher Brown,Clothing,Sneakers,5,72.85
+1984,10/26/23,Northeast,Carol Wilson,Home & Garden,Blender,5,48.51
+1625,5/2/23,Midwest,Susan Taylor,Home & Garden,Blender,4,48.25
+1626,4/18/23,Southwest,Emily Ramirez,Office,Desk Chair,3,291.95
+1801,1/27/23,Southeast,Thomas Davis,Office,Desk Chair,4,273.25
+1109,9/23/23,Southwest,Susan Walker,Electronics,Headphones,3,81.21
+1114,1/27/23,Southeast,Emily Lewis,Office,Desk Chair,3,307.35
+1774,3/30/23,Northeast,Paul Thomas,Sports,Jump Rope,5,13.74
+1862,2/2/23,Midwest,Karen Brown,Home & Garden,Blender,3,46.61
+1986,7/11/23,West,,Electronics,Headphones,1,82.89
+1469,9/21/23,Southeast,Betty Brown,Sports,Water Bottle,1,21.03
+1819,12/16/23,Midwest,Daniel Perez,Electronics,Keyboard,4,
+1449,2/19/23,Northeast,Lisa Thomas,Office,Desk Chair,4,309.63
+1969,9/11/23,Southwest,Karen Jackson,Clothing,Jeans,2,46.9
+1949,3/13/23,Southeast,Jennifer Sanchez,Sports,Running Shoes,1,87.91
+1052,4/2/23,West,Linda Taylor,Office,Desk Chair,3,326.34
+1724,1/21/23,West,Sarah Sanchez,Sports,Yoga Mat,4,32.26
+1107,11/3/23,Northeast,Mark Garcia,Home & Garden,Blender,4,45.35
+1686,4/30/23,Midwest,Betty Thomas,Home & Garden,Throw Pillow,3,23.18
+1619,2/10/23,Southwest,Michael Davis,Office,Desk Chair,5,279.35
+1528,9/13/23,Northeast,Steven Rodriguez,Sports,Water Bottle,5,20.62
+1895,11/3/23,Southeast,Susan Miller,Electronics,Keyboard,5,46.93
+1707,5/7/23,West,Mary Williams,Sports,Jump Rope,3,14.1
+1874,8/18/23,West,Barbara White,Electronics,Headphones,2,87.64
+1155,7/5/23,West,Donald Lewis,Office,Notebook,5,9.43
+1918,9/1/23,West,Margaret Thompson,Home & Garden,Blender,4,45.83
+1274,8/21/23,West,Nancy Jackson,Office,Notebook,5,9.76
+1571,10/30/23,Southeast,Carol Sanchez,Electronics,Keyboard,1,51.31
+1899,8/2/23,Southwest,Michelle Davis,Clothing,Jeans,1,52.94
+1789,10/18/23,Southwest,John Williams,Sports,Jump Rope,3,13.19
+1048,1/13/23,Southeast,Susan Clark,Clothing,Jeans,3,53.64
+1788,5/2/23,West,Andrew Young,Clothing,Sneakers,3,76.56
+1364,4/23/23,Midwest,Andrew Johnson,Sports,Water Bottle,1,18.66
+1804,9/30/23,Midwest,John Miller,Home & Garden,Blender,4,46.64
+1349,3/14/23,Midwest,Jennifer Davis,Home & Garden,Wall Clock,3,32.51
+1674,11/7/23,Northeast,Betty Anderson,Office,Pen Set,1,11.4
+1499,11/1/23,Northeast,Amanda Brown,Sports,Running Shoes,1,89.6
+1230,6/3/23,Southeast,,Home & Garden,Desk Lamp,2,36.46
+1576,2/2/23,Midwest,Emily Anderson,Sports,Running Shoes,3,77.18
+1124,2/21/23,Southwest,Carol Perez,Electronics,Tablet,1,450.2
+1233,7/29/23,West,Donald Clark,Home & Garden,Wall Clock,1,32.99
+1633,5/26/23,Midwest,Paul Lopez,Office,Pen Set,3,12.35
+1117,5/30/23,West,Barbara Young,Sports,Yoga Mat,3,30.88
+1441,6/27/23,Midwest,Robert Thomas,Electronics,Smartwatch,2,185.62
+1692,8/10/23,Midwest,Jennifer Anderson,Sports,Jump Rope,4,13.19
+1131,4/29/23,Southwest,Emily Martinez,Sports,Jump Rope,3,
+1066,8/19/23,Midwest,David Walker,Sports,Jump Rope,2,12.85
+1358,12/11/23,Midwest,Ashley Lopez,Electronics,Headphones,5,77.62
+1325,7/16/23,Southeast,Matthew Perez,Clothing,Hoodie,1,42.67
+1732,11/17/23,Southeast,Mark Jackson,Electronics,Smartwatch,1,192.31
+1535,8/5/23,Northeast,Anthony Jackson,Office,Pen Set,5,13.05
+1735,5/6/23,West,Joshua Smith,Sports,Water Bottle,3,19.76
+1038,8/23/23,West,Robert Smith,Clothing,Jacket,5,89.22
+1097,1/27/23,Midwest,Nancy Lopez,Home & Garden,Wall Clock,4,29.86
+1429,8/30/23,West,,Office,Stapler,3,13.58
+1481,12/5/23,Midwest,Joshua Sanchez,Clothing,T-Shirt,2,21.21
+1622,10/4/23,Northeast,Sandra Walker,Clothing,T-Shirt,5,20.09
+1461,1/7/23,West,Karen Robinson,Office,Monitor Stand,5,50.51
+1852,8/6/23,West,Steven Williams,Electronics,Laptop,4,
+1207,11/12/23,Northeast,Donald Lewis,Sports,Dumbbells,1,57.84
+1742,9/5/23,West,Michael Garcia,Clothing,Jeans,3,51.11
+1321,10/17/23,Northeast,Sandra Perez,Electronics,Tablet,5,412.43
+1409,1/1/23,Southwest,James Perez,Electronics,Tablet,3,453.73
+1355,12/27/23,Northeast,Jessica Moore,Sports,Yoga Mat,5,31.22
+1265,3/4/23,West,Karen Jackson,Home & Garden,Wall Clock,5,29.08
+1989,1/29/23,Northeast,Charles Lee,Clothing,T-Shirt,5,21.2
+1177,7/23/23,Northeast,,Clothing,Hoodie,4,40.46
+1579,12/1/23,Southwest,Susan Harris,Home & Garden,Blender,3,45.39
+1425,9/13/23,Southwest,Sarah Jackson,Electronics,Keyboard,5,51.18
+1332,2/22/23,Northeast,Steven Clark,Sports,Water Bottle,1,20.22
+1968,8/21/23,Southwest,Donna Ramirez,Office,Notebook,1,8.12
